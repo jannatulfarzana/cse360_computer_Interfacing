@@ -8,12 +8,10 @@ Theory_Project : Laboratory based security system. we have proposed this system 
 <br>
 Lab Projects : 
 <br>
-1. Patients Heartbeat and Temperature Monitoring System <br> demostration link : https://youtu.be/yFwIhsOcxdY <br>
-Tools: <br>
-1. Arduino <br>
-2. Proteus <br>
-3. LabView
+
+1. Patients Heartbeat and Temperature Monitoring System ,  demonstration link : https://youtu.be/yFwIhsOcxdY <br>
+
 <br>
 
-2. 
+2. Data Logger System Temperature and Humidity Measure  , demonstration link : https://youtu.be/800SSGNtTps
 
